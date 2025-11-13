@@ -1,0 +1,3 @@
+# Memory vs computation
+
+Notes coming soon...

@@ -1,0 +1,3 @@
+# Closest pair problem
+
+Notes coming soon...

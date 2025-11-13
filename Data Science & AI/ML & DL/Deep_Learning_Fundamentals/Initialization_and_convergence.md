@@ -1,0 +1,3 @@
+# Initialization and convergence
+
+Notes coming soon...

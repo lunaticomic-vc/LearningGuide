@@ -1,0 +1,3 @@
+# Linear and convex optimization basics
+
+Notes coming soon...

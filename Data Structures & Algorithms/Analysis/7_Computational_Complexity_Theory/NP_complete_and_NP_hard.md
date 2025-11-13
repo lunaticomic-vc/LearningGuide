@@ -1,0 +1,3 @@
+# NP complete and NP hard
+
+Notes coming soon...

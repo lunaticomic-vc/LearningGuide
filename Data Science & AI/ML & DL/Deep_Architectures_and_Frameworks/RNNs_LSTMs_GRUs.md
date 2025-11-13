@@ -1,0 +1,3 @@
+# RNNs LSTMs GRUs
+
+Notes coming soon...

@@ -1,0 +1,3 @@
+# Proofs of optimality
+
+Notes coming soon...

@@ -1,0 +1,3 @@
+# Divide & conquer DP optimization
+
+Notes coming soon...

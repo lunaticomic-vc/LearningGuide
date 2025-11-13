@@ -1,0 +1,3 @@
+# Lower bounds and impossibility
+
+Notes coming soon...

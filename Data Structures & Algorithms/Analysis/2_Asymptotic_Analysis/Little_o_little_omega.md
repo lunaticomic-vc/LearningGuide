@@ -1,0 +1,3 @@
+# Little o little omega
+
+Notes coming soon...

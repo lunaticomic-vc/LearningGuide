@@ -1,0 +1,3 @@
+# Categorical encoding
+
+Notes coming soon...

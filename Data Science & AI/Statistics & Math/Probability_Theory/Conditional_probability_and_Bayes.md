@@ -1,0 +1,3 @@
+# Conditional probability and Bayes
+
+Notes coming soon...

@@ -1,0 +1,3 @@
+# Static vs dynamic arrays
+
+Notes coming soon...

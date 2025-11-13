@@ -1,0 +1,3 @@
+# Micro optimizations vs algorithmic improvements
+
+Notes coming soon...

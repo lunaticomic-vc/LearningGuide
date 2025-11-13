@@ -1,0 +1,3 @@
+# Data layout and cache behavior
+
+Notes coming soon...

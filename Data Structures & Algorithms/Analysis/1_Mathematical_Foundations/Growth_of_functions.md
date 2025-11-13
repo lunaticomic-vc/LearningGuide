@@ -1,0 +1,3 @@
+# Growth of functions
+
+Notes coming soon...

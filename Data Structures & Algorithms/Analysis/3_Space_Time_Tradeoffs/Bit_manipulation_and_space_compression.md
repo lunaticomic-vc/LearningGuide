@@ -1,0 +1,3 @@
+# Bit manipulation and space compression
+
+Notes coming soon...

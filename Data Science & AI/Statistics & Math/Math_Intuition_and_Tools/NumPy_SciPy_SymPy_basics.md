@@ -1,0 +1,3 @@
+# NumPy SciPy SymPy basics
+
+Notes coming soon...

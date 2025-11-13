@@ -1,0 +1,3 @@
+# Applications of tries
+
+Notes coming soon...

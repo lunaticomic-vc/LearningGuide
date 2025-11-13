@@ -1,0 +1,3 @@
+# List operations (insert, delete, reverse)
+
+Notes coming soon...

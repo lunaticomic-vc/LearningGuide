@@ -1,0 +1,3 @@
+# Bit manipulation and bitmasking
+
+Notes coming soon...

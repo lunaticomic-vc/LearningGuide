@@ -1,0 +1,3 @@
+# Permutation and subset generation
+
+Notes coming soon...

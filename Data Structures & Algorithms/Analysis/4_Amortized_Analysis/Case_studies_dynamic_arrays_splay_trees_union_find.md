@@ -1,0 +1,3 @@
+# Case studies dynamic arrays splay trees union find
+
+Notes coming soon...

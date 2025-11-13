@@ -1,0 +1,3 @@
+# Resampling methods
+
+Notes coming soon...

@@ -1,0 +1,3 @@
+# Hash functions and collisions
+
+Notes coming soon...

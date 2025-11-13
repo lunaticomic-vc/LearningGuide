@@ -1,0 +1,3 @@
+# Cache efficiency and data locality
+
+Notes coming soon...

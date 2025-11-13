@@ -1,0 +1,3 @@
+# Constant factors and overhead reduction
+
+Notes coming soon...

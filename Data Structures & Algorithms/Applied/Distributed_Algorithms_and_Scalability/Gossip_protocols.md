@@ -1,0 +1,3 @@
+# Gossip protocols
+
+Notes coming soon...

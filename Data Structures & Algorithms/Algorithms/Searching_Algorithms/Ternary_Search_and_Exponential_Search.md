@@ -1,0 +1,3 @@
+# Ternary Search and Exponential Search
+
+Notes coming soon...

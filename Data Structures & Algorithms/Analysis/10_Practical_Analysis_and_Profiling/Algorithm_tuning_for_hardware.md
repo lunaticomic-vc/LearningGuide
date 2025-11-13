@@ -1,0 +1,3 @@
+# Algorithm tuning for hardware
+
+Notes coming soon...

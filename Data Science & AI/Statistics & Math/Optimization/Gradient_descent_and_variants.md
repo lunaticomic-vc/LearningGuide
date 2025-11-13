@@ -1,0 +1,3 @@
+# Gradient descent and variants
+
+Notes coming soon...

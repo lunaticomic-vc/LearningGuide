@@ -1,0 +1,3 @@
+# Interpolation Search
+
+Notes coming soon...

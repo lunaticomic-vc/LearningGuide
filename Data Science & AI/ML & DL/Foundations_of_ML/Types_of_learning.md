@@ -1,0 +1,3 @@
+# Types of learning
+
+Notes coming soon...

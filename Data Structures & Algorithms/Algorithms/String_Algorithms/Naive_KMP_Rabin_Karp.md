@@ -1,0 +1,3 @@
+# Naive KMP Rabin-Karp
+
+Notes coming soon...

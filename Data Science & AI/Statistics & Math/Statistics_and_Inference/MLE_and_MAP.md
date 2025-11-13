@@ -1,0 +1,3 @@
+# MLE and MAP
+
+Notes coming soon...

@@ -1,0 +1,3 @@
+# Queue variants (circular, double-ended)
+
+Notes coming soon...

@@ -1,0 +1,3 @@
+# Entropy cross entropy KL
+
+Notes coming soon...

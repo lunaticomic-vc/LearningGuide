@@ -1,0 +1,3 @@
+# Orthogonality and projections
+
+Notes coming soon...

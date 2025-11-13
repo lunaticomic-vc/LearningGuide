@@ -1,0 +1,3 @@
+# Root finding
+
+Notes coming soon...

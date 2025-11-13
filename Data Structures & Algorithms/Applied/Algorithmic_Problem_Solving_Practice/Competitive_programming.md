@@ -1,0 +1,3 @@
+# Competitive programming
+
+Notes coming soon...

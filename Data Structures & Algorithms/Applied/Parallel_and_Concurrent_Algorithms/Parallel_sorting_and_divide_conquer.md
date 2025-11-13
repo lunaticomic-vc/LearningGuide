@@ -1,0 +1,3 @@
+# Parallel sorting and divide conquer
+
+Notes coming soon...

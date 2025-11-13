@@ -1,0 +1,3 @@
+# Common patterns (parsing, backtracking)
+
+Notes coming soon...

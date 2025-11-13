@@ -1,0 +1,3 @@
+# Real time algorithms
+
+Notes coming soon...

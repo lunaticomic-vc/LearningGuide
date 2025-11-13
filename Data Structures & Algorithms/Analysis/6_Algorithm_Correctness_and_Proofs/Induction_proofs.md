@@ -1,0 +1,3 @@
+# Induction proofs
+
+Notes coming soon...

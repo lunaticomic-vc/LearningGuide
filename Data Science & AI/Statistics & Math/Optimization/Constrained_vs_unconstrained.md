@@ -1,0 +1,3 @@
+# Constrained vs unconstrained
+
+Notes coming soon...

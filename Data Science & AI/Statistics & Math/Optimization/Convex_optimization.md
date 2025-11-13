@@ -1,0 +1,3 @@
+# Convex optimization
+
+Notes coming soon...

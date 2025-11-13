@@ -1,0 +1,3 @@
+# Load factor and rehashing
+
+Notes coming soon...

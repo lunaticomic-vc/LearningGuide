@@ -1,0 +1,3 @@
+# Aggregate method
+
+Notes coming soon...

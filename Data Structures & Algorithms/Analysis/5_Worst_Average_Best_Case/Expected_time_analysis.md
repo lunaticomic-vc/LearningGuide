@@ -1,0 +1,3 @@
+# Expected time analysis
+
+Notes coming soon...

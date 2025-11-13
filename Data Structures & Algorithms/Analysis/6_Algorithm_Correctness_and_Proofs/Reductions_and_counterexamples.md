@@ -1,0 +1,3 @@
+# Reductions and counterexamples
+
+Notes coming soon...

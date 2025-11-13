@@ -1,0 +1,3 @@
+# Trade-offs between structures
+
+Notes coming soon...

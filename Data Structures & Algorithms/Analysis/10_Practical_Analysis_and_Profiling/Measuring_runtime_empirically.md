@@ -1,0 +1,3 @@
+# Measuring runtime empirically
+
+Notes coming soon...

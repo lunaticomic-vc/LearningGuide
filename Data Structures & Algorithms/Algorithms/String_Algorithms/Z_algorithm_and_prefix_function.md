@@ -1,0 +1,3 @@
+# Z-algorithm and prefix function
+
+Notes coming soon...

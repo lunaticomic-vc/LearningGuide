@@ -1,0 +1,3 @@
+# GPU and SIMD computation
+
+Notes coming soon...

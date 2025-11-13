@@ -1,0 +1,3 @@
+# Bit level optimizations
+
+Notes coming soon...

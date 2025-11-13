@@ -1,0 +1,3 @@
+# Loss functions and optimizers
+
+Notes coming soon...

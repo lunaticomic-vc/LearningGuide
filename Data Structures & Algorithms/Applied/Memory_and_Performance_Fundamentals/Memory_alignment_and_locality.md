@@ -1,0 +1,3 @@
+# Memory alignment and locality
+
+Notes coming soon...

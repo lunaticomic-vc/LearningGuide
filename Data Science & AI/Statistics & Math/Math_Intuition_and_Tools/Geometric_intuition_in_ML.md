@@ -1,0 +1,3 @@
+# Geometric intuition in ML
+
+Notes coming soon...

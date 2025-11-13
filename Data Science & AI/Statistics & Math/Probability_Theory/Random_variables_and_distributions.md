@@ -1,0 +1,3 @@
+# Random variables and distributions
+
+Notes coming soon...

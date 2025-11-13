@@ -1,0 +1,3 @@
+# Binary Search and variants
+
+Notes coming soon...

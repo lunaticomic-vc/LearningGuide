@@ -1,0 +1,3 @@
+# Notation and summation
+
+Notes coming soon...

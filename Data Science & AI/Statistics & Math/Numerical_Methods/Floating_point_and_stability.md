@@ -1,0 +1,3 @@
+# Floating point and stability
+
+Notes coming soon...

@@ -1,0 +1,3 @@
+# Stability and in-place sorting
+
+Notes coming soon...

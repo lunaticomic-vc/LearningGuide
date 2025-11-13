@@ -1,0 +1,3 @@
+# Memory representation and allocation (stack vs heap)
+
+Notes coming soon...

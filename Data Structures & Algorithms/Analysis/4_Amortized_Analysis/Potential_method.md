@@ -1,0 +1,3 @@
+# Potential method
+
+Notes coming soon...

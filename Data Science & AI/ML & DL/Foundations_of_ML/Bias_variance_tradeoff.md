@@ -1,0 +1,3 @@
+# Bias variance tradeoff
+
+Notes coming soon...

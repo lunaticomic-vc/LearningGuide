@@ -1,0 +1,3 @@
+# Logarithms exponents summations
+
+Notes coming soon...

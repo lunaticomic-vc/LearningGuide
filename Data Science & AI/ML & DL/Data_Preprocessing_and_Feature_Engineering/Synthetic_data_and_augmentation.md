@@ -1,0 +1,3 @@
+# Synthetic data and augmentation
+
+Notes coming soon...

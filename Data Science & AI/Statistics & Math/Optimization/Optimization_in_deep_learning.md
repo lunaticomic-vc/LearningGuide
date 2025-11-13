@@ -1,0 +1,3 @@
+# Optimization in deep learning
+
+Notes coming soon...

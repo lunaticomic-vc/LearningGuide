@@ -1,0 +1,3 @@
+# Greedy choice and matroids
+
+Notes coming soon...

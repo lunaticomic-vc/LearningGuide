@@ -1,0 +1,3 @@
+# Data layout optimization
+
+Notes coming soon...

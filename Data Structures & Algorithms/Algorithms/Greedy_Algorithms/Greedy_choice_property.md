@@ -1,0 +1,3 @@
+# Greedy choice property
+
+Notes coming soon...

@@ -1,0 +1,3 @@
+# Data locality and cache aware algorithms
+
+Notes coming soon...

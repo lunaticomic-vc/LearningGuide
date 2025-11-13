@@ -1,0 +1,3 @@
+# Chain rule and backpropagation
+
+Notes coming soon...

@@ -1,0 +1,3 @@
+# Precomputation and caching
+
+Notes coming soon...

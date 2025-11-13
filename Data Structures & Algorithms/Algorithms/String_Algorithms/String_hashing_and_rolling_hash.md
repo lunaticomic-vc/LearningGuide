@@ -1,0 +1,3 @@
+# String hashing and rolling hash
+
+Notes coming soon...

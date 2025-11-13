@@ -1,0 +1,3 @@
+# Gradient descent and backpropagation
+
+Notes coming soon...

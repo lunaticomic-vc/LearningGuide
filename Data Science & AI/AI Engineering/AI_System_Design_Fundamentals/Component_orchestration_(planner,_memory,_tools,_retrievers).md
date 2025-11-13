@@ -1,0 +1,3 @@
+# Component orchestration (planner, memory, tools, retrievers)
+
+Notes coming soon...

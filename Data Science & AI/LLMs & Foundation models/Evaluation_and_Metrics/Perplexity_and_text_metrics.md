@@ -1,0 +1,3 @@
+# Perplexity and text metrics
+
+Notes coming soon...

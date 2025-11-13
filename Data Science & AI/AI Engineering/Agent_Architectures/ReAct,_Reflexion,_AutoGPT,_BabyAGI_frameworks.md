@@ -1,0 +1,3 @@
+# ReAct, Reflexion, AutoGPT, BabyAGI frameworks
+
+Notes coming soon...

@@ -1,0 +1,3 @@
+# Semantic embeddings
+
+Notes coming soon...

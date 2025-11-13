@@ -1,0 +1,3 @@
+# Similarity search applications
+
+Notes coming soon...

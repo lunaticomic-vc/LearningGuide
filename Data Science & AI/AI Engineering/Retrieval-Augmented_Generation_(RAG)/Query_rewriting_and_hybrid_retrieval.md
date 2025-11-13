@@ -1,0 +1,3 @@
+# Query rewriting and hybrid retrieval
+
+Notes coming soon...

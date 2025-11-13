@@ -1,0 +1,3 @@
+# Embedding models and text chunking
+
+Notes coming soon...

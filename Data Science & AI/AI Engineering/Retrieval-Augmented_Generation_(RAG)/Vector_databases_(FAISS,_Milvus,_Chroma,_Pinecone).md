@@ -1,0 +1,3 @@
+# Vector databases (FAISS, Milvus, Chroma, Pinecone)
+
+Notes coming soon...

@@ -1,0 +1,72 @@
+Question 1 of 5
+Options _____ arguments
+
+
+cannot have
+
+must have
+
+replace
+
+may have
+
+4
+
+Question 2 of 5
+This variable represents all of the arguments passed to a script.
+
+
+$@
+
+$#
+
+$?
+
+$0
+
+1
+
+Question 3 of 5
+To ask for input with a text prompt string, and store the reply in a variable called username, you might write _____.
+
+
+read username "Enter username: "
+
+read "Enter username: " -p username
+
+read username -p "Enter username: "
+
+read -p "Enter username: " username
+
+4
+
+Question 4 of 5
+Which part of this command represents an option? ./myscript -d "hello"
+
+
+-d
+
+myscript
+
+./
+
+"hello"
+
+1
+
+Question 5 of 5
+In addition to using a loop where you check if a variable is non-empty, which of these can you use to provide a non-skippable input?
+
+
+select
+
+prompt
+
+read
+
+echo
+
+1
+
+
+

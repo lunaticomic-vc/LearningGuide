@@ -3,8 +3,8 @@ from pathlib import Path
 from openai import OpenAI
 
 # 1. CONFIGURATION
-BASE_DIR = Path("/Users/I742773/LearningGuide")  # change if needed
-MODEL_NAME = "gpt-4.1-mini"  # or "gpt-4.1" / "gpt-4.1-pro" if you prefer
+BASE_DIR = Path("/Users/I742773/LearningGuide/System Design")  # change if needed
+MODEL_NAME = "gpt-4.1"  # or "gpt-4.1" / "gpt-4.1-pro" if you prefer
 
 PROMPT_TEMPLATE = """
 You will create a structured learning document in Markdown for the topic "{title}".
@@ -59,14 +59,12 @@ Add a small table with review prompts for:
 Do not include meta commentary about being an AI model.
 """
 
-TARGET_SUBSTRING = "Notes coming soon..."
 
 # Uses OPENAI_API_KEY from environment
 client = OpenAI()
 
 
 def extract_title_from_filename(path: Path) -> str:
-    # "Persistent_and_immutable_structures.md" -> "Persistent_and_immutable_structures"
     return path.stem
 
 
@@ -97,11 +95,6 @@ def generate_markdown_for_title(title: str) -> str:
 
 def process_markdown_file(path: Path, dry_run: bool = False):
     content = path.read_text(encoding="utf-8")
-
-    # Only process files containing the target substring anywhere
-    if TARGET_SUBSTRING not in content:
-        print(f"Skipping file (substring not found): {path}")
-        return
 
     title = extract_title_from_filename(path)
     print(f"Processing: {path} (title: {title})")
